@@ -13,3 +13,4 @@ The project includes features for user login, registration, role selection, and 
 
 ## Technology Used
 - Java
+- html
