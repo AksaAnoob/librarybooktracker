@@ -1,7 +1,6 @@
 Library Book Tracker
 
-A Java-based desktop application for managing library books with user authentication and
-role-based access. The system allows users and librarians to interact with the library through
+A Java-based desktop application for managing library books with user authentication and role-based access. The system allows users and librarians to interact with the library through
 a clean graphical interface.
 
 Features
@@ -15,12 +14,12 @@ Features
 Project Structure
 
 src/com/library/frontend/
-├── AuthChoice.java # Authentication selection
+├── AuthChoice.java #Authentication section
 ├── LoginUI.java # Login interface
-├── RegisterUI.java # Registration interface
-├── RoleSelector.java # Role selection (Main Entry Point)
+├── RegisterUI.java # Registrationinterface
+├── RoleSelector.java # Role selection
 ├── LibraryUI.java # Main library interface
-└── LibraryBackend.java # Backend logic & database handling
+└── LibraryBackend.java # Backend logic     & database handling
 README.md
 
 Technologies Used
@@ -41,9 +40,8 @@ How to Run
    
 Notes
 
-• RoleSelector.java is the main entry point of the application
-• Ensure all files are inside the correct package:
-com.library.frontend
+•Main class:RoleSelector.java
+•package:com.library.frontend
 
 Author
 • Aksa Anoob
