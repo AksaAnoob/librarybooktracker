@@ -1,6 +1,7 @@
 # 📚 Library Book Tracker
 
-A Java-based desktop application to manage library books with user authentication and role-based access.
+Library Book Tracker is a Java-based application designed to manage books in a library system. The system provides authentication, role selection, and a user interface for managing library operations.
+
 
 
 ## 🚀 Features
