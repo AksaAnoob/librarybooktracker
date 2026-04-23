@@ -14,6 +14,7 @@ A Java-based desktop application to manage library books with user authenticatio
 
 ## 🧩 Project Structure
 
+```
 src/com/library/frontend/
 ├── AuthChoice.java
 ├── LoginUI.java
@@ -21,12 +22,14 @@ src/com/library/frontend/
 ├── RoleSelector.java (Main Entry Point)
 ├── LibraryUI.java
 └── LibraryBackend.java
+```
 
 
 ## 🛠️ Technologies Used
 
 - Java  
 - Swing  
+- html
 - JDBC  
 
 
